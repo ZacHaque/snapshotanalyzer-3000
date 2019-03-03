@@ -14,4 +14,7 @@ This program use configuration file created by AWS CLI
 
 ## Running
 
-`pipenv run python "zayan/zayan.py"`
+`pipenv run python "zayan/zayan.py <command> <--project=PROJECT>"`
+
+*commad* is list, stop and start
+*project* is optional
